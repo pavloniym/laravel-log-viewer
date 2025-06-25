@@ -22,7 +22,7 @@
 ## Installation
 
 ```bash
-composer require stepanenko3/laravel-log-viewer
+composer require pavloniym/laravel-log-viewer
 ```
 
 ## Usage
