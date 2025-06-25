@@ -1,5 +1,5 @@
 {
-    "name": "stepanenko3/laravel-log-viewer",
+    "name": "pavloniym/laravel-log-viewer",
     "description": "Fast and easy-to-use log viewer for your Laravel application",
     "keywords": [
         "laravel",
@@ -8,7 +8,7 @@
         "better-log-viewer",
         "laravel-log-viewer"
     ],
-    "homepage": "https://github.com/stepanenko3/laravel-log-viewer",
+    "homepage": "https://github.com/pavloniym/laravel-log-viewer",
     "license": "MIT",
     "authors": [
         {
